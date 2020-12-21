@@ -7,7 +7,7 @@
 ---- | **Fixed Mindset** | **Growth mindset**
 ---- | ------------- | ---------------
 challenges | Avoids | embraces
-Obstacles  | Loses focus | persists
+Obstacles | Loses focus | persists
 Effort | Views as fruitless | No pain ,No gain
 Criticism | Ignores | Learn from
 Success of others | Views as threat | Is inspired by
