@@ -3,6 +3,7 @@
 #### There is another concept called fixed mindset which means that the person don't need to make any effort or hardworking because he/she have already the talent or knowledge.
 #### In fact I always pushing myself to be a mindset person and always memorize myself by to keep working on my skills , get knowledge in new fields and trying to improve and discover my talents.
 ### Here is some Comparisons between fixed and growth mindset:
+
 ---- | **Fixed Mindset** | **Growth mindset**
 ---- | ------------- | ---------------
 challenges | Avoids | embraces
