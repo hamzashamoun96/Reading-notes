@@ -24,7 +24,7 @@ block-level elements.
 * Each new version of HTML was designed
 to be an improvement on the
 last version.
-* Doctypes is a tage shoul each script begin with to declare to the browser which version of HTML the developer are using.
+* Doctypes is a tag should each script begin with to declare to the browser which version of HTML the developer are using.
 * Block Level Elements will always
 appear to start on a new line in
 the browser window.
