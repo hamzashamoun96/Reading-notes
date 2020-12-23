@@ -10,3 +10,4 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 * [Markdown](https://hamzashamoun96.github.io/Reading-notes/MarkDown)
 * [HTML & CSS](https://hamzashamoun96.github.io/Reading-notes/Read4)
 * [JavaScript](https://hamzashamoun96.github.io/Reading-notes/JavaScript)
+* [How Computers Work](https://hamzashamoun96.github.io/Reading-notes/HowComputersWork)
