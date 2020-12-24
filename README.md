@@ -12,4 +12,4 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 * [JavaScript](https://hamzashamoun96.github.io/Reading-notes/JavaScript)
 * [How Computers Work](https://hamzashamoun96.github.io/Reading-notes/HowComputersWork)
 * [Intro Java](https://hamzashamoun96.github.io/Reading-notes/Read7)
-* [Comparison Operators and Loops](https://hamzashamoun96.github.io/Reading-notes/ComparisonOperatorsandLoops)
+* [Comparison Operators and Loops](https://hamzashamoun96.github.io/Reading-notes/Read8)
