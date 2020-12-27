@@ -13,3 +13,5 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 * [How Computers Work](https://hamzashamoun96.github.io/Reading-notes/HowComputersWork)
 * [Intro Java](https://hamzashamoun96.github.io/Reading-notes/Read7)
 * [Comparison Operators and Loops](https://hamzashamoun96.github.io/Reading-notes/Read8)
+* [Color In CSS](https://hamzashamoun96.github.io/Reading-notes/Read5)
+
