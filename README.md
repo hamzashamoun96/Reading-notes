@@ -19,7 +19,7 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 # Code 201 Reading Notes
 |Tabel Of Content|
 |----------------|
-||
+|[HTML & JAVASCRIPT](https://hamzashamoun96.github.io/Reading-notes/class-01)|
 ||
 ||
 ||
