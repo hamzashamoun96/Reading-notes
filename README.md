@@ -6,6 +6,8 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 * Email: Hamza.shamoun96@gmail.com
 * GitHub : [hamzashamoun96](https://github.com/hamzashamoun96)
 # Code 102 Reading Notes
+
+
 |Tabel Of Content|
 |----------------|
 | [Growth Mindset](https://hamzashamoun96.github.io/Reading-notes/Growth-Mindset)|
@@ -16,7 +18,11 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 | [Intro Java](https://hamzashamoun96.github.io/Reading-notes/Read7)|
 | [Comparison Operators and Loops](https://hamzashamoun96.github.io/Reading-notes/Read8)|
 | [Color In CSS](https://hamzashamoun96.github.io/Reading-notes/Read5)|
+
+
 # Code 201 Reading Notes
+
+
 |Tabel Of Content|
 |----------------|
 |[HTML & JAVASCRIPT](https://hamzashamoun96.github.io/Reading-notes/class-01)|
