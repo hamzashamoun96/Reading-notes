@@ -26,7 +26,7 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 |Tabel Of Content|
 |----------------|
 |[HTML & JAVASCRIPT](https://hamzashamoun96.github.io/Reading-notes/class-01)|
-||
+|[Lists,Boxes,If..Else and switchStatement](https://hamzashamoun96.github.io/Reading-notes/class-02)|
 ||
 ||
 ||
