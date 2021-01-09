@@ -30,7 +30,7 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 |[Lists , Boxes , Condition Statements](https://hamzashamoun96.github.io/Reading-notes/class-03)|
 |[Links , Layout , Functions](https://hamzashamoun96.github.io/Reading-notes/class-04)|
 |[Images , Color , Text](https://hamzashamoun96.github.io/Reading-notes/class-05)|
-||
+|[Obejcts](https://hamzashamoun96.github.io/Reading-notes/class-06)|
 ||
 ||
 ||
