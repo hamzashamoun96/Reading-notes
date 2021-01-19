@@ -1,0 +1,6 @@
+# Local Storage
+* It provides a layer of storing and retrieving application specific data and these values may be stored in the registry , INI files , XML files or some other place according to platform convention.
+* Web applications have had none of these luxuries, Cookies were invented early in the web's history.
+* So a local storage is simply a way for web pages to store named key/value pairs locally within the client web browser.
+* The named key is a string , the data can be ant type supported by javascript , including strings , booleans , integers or floats, the data is actually stored stored as a string if you want to change the data type of them use functions as ( parseInt () ) or ( parseFloat ()).
+* There are many methods you can use with local storage like : setItem() which is used to store a value within a key , getItem() which is used to retrieve the value that you stored, removeItem() is used to remove a specific item from local storage , clear() is used to clear all stored data from local storage. 

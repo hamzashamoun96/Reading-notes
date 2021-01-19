@@ -37,6 +37,6 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 |[Error Handling & Debugging](https://hamzashamoun96.github.io/Reading-notes/class-10)|
 |[Images , Practical Information , Video & Audio In HTML](https://hamzashamoun96.github.io/Reading-notes/class-11)|
 |[Charts , Color , Text](https://hamzashamoun96.github.io/Reading-notes/class-12)|
-||
-||
+|[Local Storage](https://hamzashamoun96.github.io/Reading-notes/class-13)|
+|[Transform in CSS](https://hamzashamoun96.github.io/Reading-notes/class-14a)|
 ||

@@ -1,0 +1,6 @@
+# Transform in CSS
+* Transform property is a new way to position and alter elements, and it comes in two different setting ( two-dimentional , three-dimentional ).
+* About the syntax of transform syntax it is simple just including the transform property followed by the value and this value is the specification of the transform type followed by a specific amount inside parentheses.
+* The rotate value provides the ability to rotate an element, the scale value allows you to change appeared size of an element, the translate value (translateX , translateY) allows you to position elements on the horizontal and vertical axises , the prespective value allows you to rotate an element in a 3d way.
+* There are four transition related properties in total, including transition-property, transition-duration, transition-timing-function, and transition-delay.
+* Not all properties may be transitioned only properties that have an identifiable halfway point. Colors, font sizes, and the alike may be transitioned from one value to another as they have recognizable values in-between one another.
