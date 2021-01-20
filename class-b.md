@@ -1,0 +1,8 @@
+# What Google Learned From It's Quest To Build The Perfect Team
+* It is really important to have harmony , friendly and understanding relationship between any team members in order to bring out the best of each member and accomplish a great result to the team's goals.
+* I think software engineers or and peroson related to software must encourage to work together as the studies show that groups tend to innovate faster, see mistakes more quickly and find better solutions to problems.
+* Studies also show show that people working in teams tend to achive better results an report highter job satisfaction , also executives said that profitability increases when workers are peruaded to collaborate more.
+* When we speek about Google we must know that they are focusing on team working and they actually spend millons of dollars measuring every aspect if it's employees lives in order to build the perfect teams.
+*  Project Aristotle's Researchers began by reviewing a half-century of academic studies looking at how teams worked , and to accomplish it the researchers recruited 699 people divided them into small groups and gave each a series of assignments that required different kinds of cooperation.
+* The researchers eventually concluded that what distinguished the good teams from the dysfunctional groups was how teammates treated one another.
+* The researchers noticed two things that all good teams shared : first member spoke in the same proportion, second all good teams had high average social sensitivity. 

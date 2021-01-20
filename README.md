@@ -39,4 +39,4 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 |[Charts , Color , Text](https://hamzashamoun96.github.io/Reading-notes/class-12)|
 |[Local Storage](https://hamzashamoun96.github.io/Reading-notes/class-13)|
 |[Transform in CSS](https://hamzashamoun96.github.io/Reading-notes/class-14a)|
-||
+|[The Perfect Team](https://hamzashamoun96.github.io/Reading-notes/class-14b)|
