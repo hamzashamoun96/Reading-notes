@@ -51,7 +51,11 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 |[Transform in CSS](https://hamzashamoun96.github.io/Reading-notes/class-14a)|
 |[The Perfect Team](https://hamzashamoun96.github.io/Reading-notes/class-14b)|
 
+
+
 # Code 301 - Intermediate Software Development
+
+
 |Tabel Of Content|
 |----------------|
 |[]()|
@@ -69,4 +73,7 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 |[]()|
 |[]()|
 |[]()|
+
+
+
 # Code 401 - Advanced Software Development
