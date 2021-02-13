@@ -1,11 +1,21 @@
 # Hamza Shamoun
 Mechanical Engineer
 ## About Me
-I Graduated From Polytechnic with a major of Mechanical Engineering and always hope for the best and seeking for new opportunities to add experiences to career's life and looking forward to improve my skills.
+I Graduated From Polytechnic with a major of Mechanical Engineering and always hope for the best and seeking for new opportunities to add experiences to my career's life and looking forward to improve my skills.
+<hr>
+
 # Contact Information 
 * Email: Hamza.shamoun96@gmail.com
 * GitHub : [hamzashamoun96](https://github.com/hamzashamoun96)
-# Code 102 Reading Notes
+
+
+<hr>
+
+## This website includes my summaries of the Topics I'm taking in ASAC courses 
+<hr>
+
+# Reading Notes :
+# Code 102 - Intro to Software Development
 
 
 |Tabel Of Content|
@@ -20,7 +30,7 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 | [Color In CSS](https://hamzashamoun96.github.io/Reading-notes/Read5)|
 
 
-# Code 201 Reading Notes
+# Code 201 - Foundations of Software Development
 
 
 |Tabel Of Content|
@@ -40,3 +50,23 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 |[Local Storage](https://hamzashamoun96.github.io/Reading-notes/class-13)|
 |[Transform in CSS](https://hamzashamoun96.github.io/Reading-notes/class-14a)|
 |[The Perfect Team](https://hamzashamoun96.github.io/Reading-notes/class-14b)|
+
+# Code 301 - Intermediate Software Development
+|Tabel Of Content|
+|----------------|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+# Code 401 - Advanced Software Development
