@@ -59,7 +59,7 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 |Tabel Of Content|
 |----------------|
 |[Responsive Web Design and Floats](https://hamzashamoun96.github.io/Reading-notes/301-01)|
-|[]()|
+|[jQuery](https://hamzashamoun96.github.io/Reading-notes/301-02)|
 |[]()|
 |[]()|
 |[]()|
