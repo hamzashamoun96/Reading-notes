@@ -64,7 +64,7 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 |[Grid in CSS](https://hamzashamoun96.github.io/Reading-notes/301-04)|
 |[Heroku](https://hamzashamoun96.github.io/Reading-notes/301-05)|
 |[Node.js](https://hamzashamoun96.github.io/Reading-notes/301-06)|
-|[]()|
+|[HTTP , API](https://hamzashamoun96.github.io/Reading-notes/301-07)|
 |[]()|
 |[]()|
 |[]()|
