@@ -68,7 +68,7 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 |[SQL](https://hamzashamoun96.github.io/Reading-notes/301-08)|
 |[Refactoring JavaScript](https://hamzashamoun96.github.io/Reading-notes/301-09)|
 |[Call Stack & Debugging](https://hamzashamoun96.github.io/Reading-notes/301-10)|
-|[]()|
+|[EJS](https://hamzashamoun96.github.io/Reading-notes/301-11)|
 |[]()|
 |[]()|
 |[]()|
