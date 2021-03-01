@@ -70,7 +70,7 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 |[Call Stack & Debugging](https://hamzashamoun96.github.io/Reading-notes/301-10)|
 |[EJS](https://hamzashamoun96.github.io/Reading-notes/301-11)|
 |[EJS Partials](https://hamzashamoun96.github.io/Reading-notes/301-12)|
-|[]()|
+|[Sending form data](https://hamzashamoun96.github.io/Reading-notes/301-13)|
 |[]()|
 |[]()|
 
