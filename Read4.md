@@ -2,7 +2,7 @@
 * First of all before you start making your website youe should ask yourself who Im i going to target? and how can I can make it the most benifts to my visitors? 
 * It is kind of helpful to ask certain people about what you are going to do and take notes of the reaction of these people , and doing surveys ask them what they are expecting from this wbsite, so you should becareful about this before starting designing your website, in the end when you collect enough information from people make sure to come up with ideas on website to attract and motivate visitors and make them feel they have fulfill their goals.
 * After collecting information you have to start doing your website ,first you need to put each information on a piece of paper and then organizing the related
-information into groups , this called a card sorting and then each group of information you put them in a seperate pages and this is known as site map.
+
 # Wireframes
 It is a simple skech on a paper of your website pages information, it shows you where to put texts, images, logos, videos, the oredr of your information and so on.
 #### Example of Wireframe : 
