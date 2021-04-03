@@ -85,7 +85,7 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 |[Express REST API](https://hamzashamoun96.github.io/Reading-notes/401-03)|
 |[Data Modeling](https://hamzashamoun96.github.io/Reading-notes/401-04)|
 |[Linked Lists](https://hamzashamoun96.github.io/Reading-notes/401-05)|
-|[]()|
+|[Authentication](https://hamzashamoun96.github.io/Reading-notes/401-06)|
 |[]()|
 |[]()|
 |[]()|
