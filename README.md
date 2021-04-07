@@ -89,8 +89,8 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 |[Bearer Authorization](https://hamzashamoun96.github.io/Reading-notes/401-07)|
 |[Access Control (ACL)](https://hamzashamoun96.github.io/Reading-notes/401-08)|
 |[OAuth](https://hamzashamoun96.github.io/Reading-notes/401-09)|
-|[]()|
-|[]()|
+|[Event Driven Applications](https://hamzashamoun96.github.io/Reading-notes/401-10)|
+|[Stacks & Queues](https://hamzashamoun96.github.io/Reading-notes/401-11)|
 |[]()|
 |[]()|
 |[]()|
