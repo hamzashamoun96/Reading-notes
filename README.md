@@ -92,5 +92,5 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 |[Event Driven Applications](https://hamzashamoun96.github.io/Reading-notes/401-10)|
 |[Stacks & Queues](https://hamzashamoun96.github.io/Reading-notes/401-11)|
 |[WebSocket](https://hamzashamoun96.github.io/Reading-notes/401-12)|
-|[]()|
+|[Message Queues](https://hamzashamoun96.github.io/Reading-notes/401-13)|
 |[]()|
