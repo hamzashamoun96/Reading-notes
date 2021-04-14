@@ -93,4 +93,17 @@ I Graduated From Polytechnic with a major of Mechanical Engineering and always h
 |[Stacks & Queues](https://hamzashamoun96.github.io/Reading-notes/401-11)|
 |[WebSocket](https://hamzashamoun96.github.io/Reading-notes/401-12)|
 |[Message Queues](https://hamzashamoun96.github.io/Reading-notes/401-13)|
+|[Tree](https://hamzashamoun96.github.io/Reading-notes/401-14)|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
 |[]()|
